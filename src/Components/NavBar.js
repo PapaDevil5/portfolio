@@ -45,7 +45,7 @@ export default function NavBar() {
               </Nav>
               <span className="navbar-text">
                 <div className="social-icon">
-                  <a href="https://www.linkedin.com/in/alankrit-gupta-a25b51324/"><img src={navIcon1} alt="" /></a>
+                  <a href="https://www.linkedin.com/in/alankrit-gupta-a25b51324/" target='_blank'><img src={navIcon1} alt="" /></a>
                   <a href="https://www.facebook.com/alankrit.gupta.79" target="_blank"><img src={navIcon2} alt="" /></a>
                   <a href="https://www.instagram.com/alankrit__gupta/" target="_blank"><img src={navIcon3} alt="" /></a>
                 </div>
